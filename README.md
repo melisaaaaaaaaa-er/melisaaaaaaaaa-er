@@ -1,4 +1,4 @@
-<h1>Hi, I'm Melisa, an <a href="www.linkedin.com/in/melisa-ersoy">IT Professional</a>☺</h1>
+<h1>Hi, I'm Melisa, an IT Professional</a>☺</h1>
 
 <h2>☁ Microsoft Azure:</h2>
 
