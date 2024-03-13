@@ -14,7 +14,7 @@
 - <b>Virtual Private Networks (VPNs)</b>
   - [Install and Test VPN Functionality](https://github.com/melisaaaaaaaaa-er/Install-and-Test-VPN-Functionality.git)
 
-<h2>🎟 osTicket: Help Desk Ticketing System:</h2>
+<h2>🎟 osTicket - Help Desk Ticketing System:</h2>
 
 - <b>Installing osTicket</b>
   - [Configuring IIS and Installing Prerequisites](https://github.com/melisaaaaaaaaa-er/Configuring-IIS-and-Installing-Prerequisites.git)
