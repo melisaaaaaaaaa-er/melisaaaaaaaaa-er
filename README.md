@@ -1,5 +1,13 @@
 <h1>Hi, I'm Melisa, an IT Professional</a>☺</h1>
 
+<h2>🍯 Azure Honeynet SOC Project: (ongoing)</h2>
+
+- <b>Setting the Foundation</b>
+  - [Creating Resources - Target VMs]()
+  - [Installing Microsoft SQL Server]()
+  - [Failed Authentication Log Observations]()
+  - [Microsoft Entra ID Overview - Users, Groups, Access Management]()
+
 <h2>☁ Microsoft Azure:</h2>
 
 - <b>Storage Accounts</b>
