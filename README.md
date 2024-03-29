@@ -3,7 +3,7 @@
 <h2>🍯 Azure Honeynet SOC Project: (ongoing)</h2>
 
 - <b>Setting the Foundation</b>
-  - [Creating Resources - Target VMs]()
+  - [Creating Resources - Target VMs](https://github.com/melisaaaaaaaaa-er/Creating-Resources-Target-VMS)
   - [Installing Microsoft SQL Server]()
   - [Failed Authentication Log Observations]()
   - [Microsoft Entra ID Overview - Users, Groups, Access Management]()
