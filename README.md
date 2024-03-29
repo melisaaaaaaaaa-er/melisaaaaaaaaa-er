@@ -7,6 +7,8 @@
   - [Installing Microsoft SQL Server]()
   - [Failed Authentication Log Observations]()
   - [Microsoft Entra ID Overview - Users, Groups, Access Management]()
+ 
+- <b>Logging and Monitoring</b>
 
 <h2>☁ Microsoft Azure:</h2>
 
