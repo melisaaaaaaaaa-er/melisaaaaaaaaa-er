@@ -4,9 +4,9 @@
 
 - <b>Setting the Foundation</b>
   - [Creating Resources - Target VMs](https://github.com/melisaaaaaaaaa-er/Creating-Resources-Target-VMS)
-  - [Installing Microsoft SQL Server]()
-  - [Failed Authentication Log Observations]()
-  - [Microsoft Entra ID Overview - Users, Groups, Access Management]()
+  - [Installing Microsoft SQL Server](https://github.com/melisaaaaaaaaa-er/Installing-Microsoft-SQL-Server)
+  - [Failed Authentication Log Observations](https://github.com/melisaaaaaaaaa-er/Failed-Authentication-Log-Observation)
+  - [Microsoft Entra ID Overview - Users, Groups, Access Management](https://github.com/melisaaaaaaaaa-er/Entra-ID-Overview)
  
 - <b>Logging and Monitoring</b>
 
