@@ -1,6 +1,6 @@
 <h1>Hi, I'm Melisa, an IT Professional</a>☺</h1>
 
-<h2>🍯 Azure Honeynet SOC Project: (ongoing)</h2>
+<h2>🍯 Azure Sentinel Honeynet SOC Project: (ongoing)</h2>
 
 - <b>Setting the Foundation</b>
   - [Creating Resources - Target VMs](https://github.com/melisaaaaaaaaa-er/Creating-Resources-Target-VMS)
