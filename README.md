@@ -8,7 +8,7 @@
   - [Failed Authentication Log Observations](https://github.com/melisaaaaaaaaa-er/Failed-Authentication-Log-Observation)
   - [Microsoft Entra ID Overview - Users, Groups, Access Management](https://github.com/melisaaaaaaaaa-er/Entra-ID-Overview)
  
-- <b>Logging and Monitoring</b>
+- <b>Logging and Monitoring | Analysis using KQL Queries</b>
 
 <h2>☁ Microsoft Azure:</h2>
 
