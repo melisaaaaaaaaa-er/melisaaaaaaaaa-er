@@ -9,6 +9,12 @@
   - [Microsoft Entra ID Overview - Users, Groups, Access Management](https://github.com/melisaaaaaaaaa-er/Entra-ID-Overview)
  
 - <b>Logging and Monitoring | Analysis using KQL Queries</b>
+  - [Geo IP Data Ingestion + Log Analystics Workspace and Microsoft Sentinel (SIEM) Setup](https://github.com/melisaaaaaaaaa-er/geo-ip-data)
+  - [Enable Microsoft Defender for Cloud](https://github.com/melisaaaaaaaaa-er/microsoft-def-for-cloud)
+  - [Enabling Log Collection for VMs and NSGs](https://github.com/melisaaaaaaaaa-er/enable-logs-VMs-NSGs)
+  - [Tenant Level Logging](https://github.com/melisaaaaaaaaa-er/tenant-level-logging)
+  - [Subscription Level Logging](https://github.com/melisaaaaaaaaa-er/subscription-level-logging)
+  - [Resource Level Logging](https://github.com/melisaaaaaaaaa-er/resource-level-logging)
 
 <h2>☁ Microsoft Azure:</h2>
 
