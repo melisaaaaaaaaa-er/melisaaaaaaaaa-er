@@ -64,9 +64,3 @@
   - [CNAME Records](https://github.com/melisaaaaaaaaa-er/CNAME-Records.git)
 - <b>Network File Shares and Permissions</b>
   - [Creating File Shares with Various Permissions](https://github.com/melisaaaaaaaaa-er/Creating-File-Shares-with-Various-Permissions.git)
-
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: www.linkedin.com/in/melisa-ersoy
