@@ -15,6 +15,9 @@
   - [Tenant Level Logging](https://github.com/melisaaaaaaaaa-er/tenant-level-logging)
   - [Subscription Level Logging](https://github.com/melisaaaaaaaaa-er/subscription-level-logging)
   - [Resource Level Logging](https://github.com/melisaaaaaaaaa-er/resource-level-logging)
+ 
+- <b>Microsoft Sentinel</b>
+  - [World Maps Construction](https://github.com/melisaaaaaaaaa-er/world-maps-construction)
 
 <h2>☁ Microsoft Azure:</h2>
 
