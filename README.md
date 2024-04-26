@@ -18,6 +18,7 @@
  
 - <b>Microsoft Sentinel</b>
   - [World Maps Construction](https://github.com/melisaaaaaaaaa-er/world-maps-construction)
+  - [Manual Alert Creation](https://github.com/melisaaaaaaaaa-er/manual-alert-creation)
 
 <h2>☁ Microsoft Azure:</h2>
 
