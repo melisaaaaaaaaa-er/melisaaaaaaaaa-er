@@ -19,6 +19,13 @@
 - <b>Microsoft Sentinel</b>
   - [World Maps Construction](https://github.com/melisaaaaaaaaa-er/world-maps-construction)
   - [Manual Alert Creation](https://github.com/melisaaaaaaaaa-er/manual-alert-creation)
+  - [Automatic Alert Import](https://github.com/melisaaaaaaaaa-er/automatic-alert-import)
+ 
+- <b>Run Insecure Envrionment for 24 Hours</b>
+  - [World Maps After 24 Hours](https://github.com/melisaaaaaaaaa-er/run-insecure-envi-for-24hrs)
+ 
+- <b>Regulatory Compliance</b>
+  - [Enable NIST800-53]()
 
 <h2>☁ Microsoft Azure:</h2>
 
