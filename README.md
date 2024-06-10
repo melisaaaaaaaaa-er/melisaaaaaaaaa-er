@@ -26,7 +26,7 @@
  
 - <b>Regulatory Compliance</b>
   - [Enable NIST800-53 on Microsoft Defender for Cloud](https://github.com/melisaaaaaaaaa-er/enable-nist80053)
-  - 
+  - [Enable NIST800-53 SC-7 Compliance Hardening]()
 
 <h2>☁ Microsoft Azure:</h2>
 
