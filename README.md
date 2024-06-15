@@ -36,12 +36,16 @@
 - <b>Storage Accounts</b>
   - [Creating a Storage Account](https://github.com/melisaaaaaaaaa-er/Microsoft-Azure-Create-a-Storage-Account.git)
   - [Storage Account in Action](https://github.com/melisaaaaaaaaa-er/Storage-Account-in-Action.git)
+
 - <b>Resource Groups</b>
   - [Creating Resource Groups](https://github.com/melisaaaaaaaaa-er/Creating-Resource-Groups.git)
+
 - <b>Virtual Machines</b>
   - [Creating Virtual Machines (VMs) - Windows 10 and Linux](https://github.com/melisaaaaaaaaa-er/Creating-Virtual-Machines-VMs-Windows-10-and-Linux.git)
+
 - <b>Performing Network Activities</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark - ICMP, SSH, DHCP, DNS, RDP](https://github.com/melisaaaaaaaaa-er/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols-with-Wireshark-ICMP-SSH-DHCP-DNS-RDP.git)
+
 - <b>Virtual Private Networks (VPNs)</b>
   - [Install and Test VPN Functionality](https://github.com/melisaaaaaaaaa-er/Install-and-Test-VPN-Functionality.git)
 
@@ -49,6 +53,7 @@
 
 - <b>Installing osTicket</b>
   - [Configuring IIS and Installing Prerequisites](https://github.com/melisaaaaaaaaa-er/Configuring-IIS-and-Installing-Prerequisites.git)
+
 - <b>Post-Installation Setup</b>
   - [Configure Roles](https://github.com/melisaaaaaaaaa-er/Configure-Roles.git)
   - [Configure Departments](https://github.com/melisaaaaaaaaa-er/Configure-Departments.git)
@@ -58,6 +63,7 @@
   - [Configure Clients](https://github.com/melisaaaaaaaaa-er/Configure-Clients.git)
   - [Configure Service Level Agreements (SLAs)](https://github.com/melisaaaaaaaaa-er/Configure-Service-Level-Agreements-SLAs-.git)
   - [Configure Help Topics](https://github.com/melisaaaaaaaaa-er/Configure-Help-Topics.git)
+
 - <b>Ticket Lifecycle - Creating and Managing Tickets</b>
   - [Creating Tickets](https://github.com/melisaaaaaaaaa-er/Creating-Tickets.git)
   - [Ticket Triaging](https://github.com/melisaaaaaaaaa-er/Ticket-Triaging.git)
@@ -73,9 +79,11 @@
   - [Join Client to Domain Controller](https://github.com/melisaaaaaaaaa-er/Join-Client-to-Domain-Controller.git)
   - [Setting up Remote Desktop for Non-Admin Users on Client](https://github.com/melisaaaaaaaaa-er/Setting-up-Remote-Desktop-for-Non-Admin-Users-on-Client.git)
   - [Creating Additional Users on Domain Controller](https://github.com/melisaaaaaaaaa-er/Creating-Additional-Users-on-Domain-Controller.git)
+
 - <b>DNS (Domain Name System/Server)</b>
   - [A-Record Exercise](https://github.com/melisaaaaaaaaa-er/A-Record-Exercise.git)
   - [Testing DNS Cache](https://github.com/melisaaaaaaaaa-er/Testing-DNS-Cache.git)
   - [CNAME Records](https://github.com/melisaaaaaaaaa-er/CNAME-Records.git)
+
 - <b>Network File Shares and Permissions</b>
   - [Creating File Shares with Various Permissions](https://github.com/melisaaaaaaaaa-er/Creating-File-Shares-with-Various-Permissions.git)
