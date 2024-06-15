@@ -28,6 +28,9 @@
   - [Enable NIST800-53 on Microsoft Defender for Cloud](https://github.com/melisaaaaaaaaa-er/enable-nist80053)
   - [Enable NIST800-53 SC-7 Compliance Hardening](https://github.com/melisaaaaaaaaa-er/nist80053-sc7)
 
+- <b>Run Secure Environment for 24 Hours</b>
+  - [Results]()
+
 <h2>☁ Microsoft Azure:</h2>
 
 - <b>Storage Accounts</b>
